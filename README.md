@@ -3,4 +3,4 @@
 
 包含character_system_text、text_data和race_jikkyo_comment全部文本
 
-[uma-zorz4.vercel.app](https://uma-zorz4.vercel.app)
+[uma-5-0.vercel.app](https://uma-5-0.vercel.app/)
