@@ -5,4 +5,4 @@
 
 包含character_system_text、text_data和race_jikkyo_comment全部文本
 
-[https://uma-5-0working.vercel.app/](https://uma-5-0working.vercel.app/)
+[uma-5-0.vercel.app](https://uma-5-0.vercel.app/)
